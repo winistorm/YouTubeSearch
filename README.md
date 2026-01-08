@@ -5,5 +5,5 @@ https://example.com/script_folder/search.php?query=your_text
 
 Replace your_text with the search term or query you want to look for.
 
-demo: https://winistorm.ru/x/search/index.php?query=GitHub
+demo: https://xuss.us/tune/search/?query=GitHub
 
